@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-<picture>
+<div><h4>Recently, I made a transition to the technology field, where I have been studying Back-End and expanding my horizons. I am skilled in project management, market analysis, and communication strategies.
 
-</picture>
+My interpersonal skills include teamwork, leadership, and solving complex problems. I am always seeking new challenges and opportunities to learn.</h4></div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
