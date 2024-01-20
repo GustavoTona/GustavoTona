@@ -11,9 +11,7 @@ Recently, I made a transition to the technology field, where I have been studyin
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gustavotona&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavotona&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-<p align="center">
+
 ---
 [![](https://visitcount.itsvg.in/api?id=gustavotona&icon=1&color=12)](https://visitcount.itsvg.in)
-</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
