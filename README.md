@@ -1,6 +1,7 @@
 
 # 💫 About Me:
 Recently, I made a transition to the technology field, where I have been studying Back-End and expanding my horizons. I am skilled in project management, market analysis, and communication strategies.
+
 <br>My interpersonal skills include teamwork, leadership, and solving complex problems. I am always seeking new challenges and opportunities to learn.
 
 
